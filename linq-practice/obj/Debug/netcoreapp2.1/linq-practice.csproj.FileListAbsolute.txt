@@ -1,0 +1,11 @@
+C:\Users\Vincent\source\repos\linq-practice\linq-practice\bin\Debug\netcoreapp2.1\linq-practice.deps.json
+C:\Users\Vincent\source\repos\linq-practice\linq-practice\bin\Debug\netcoreapp2.1\linq-practice.runtimeconfig.json
+C:\Users\Vincent\source\repos\linq-practice\linq-practice\bin\Debug\netcoreapp2.1\linq-practice.runtimeconfig.dev.json
+C:\Users\Vincent\source\repos\linq-practice\linq-practice\bin\Debug\netcoreapp2.1\linq-practice.dll
+C:\Users\Vincent\source\repos\linq-practice\linq-practice\bin\Debug\netcoreapp2.1\linq-practice.pdb
+C:\Users\Vincent\source\repos\linq-practice\linq-practice\obj\Debug\netcoreapp2.1\linq-practice.csprojAssemblyReference.cache
+C:\Users\Vincent\source\repos\linq-practice\linq-practice\obj\Debug\netcoreapp2.1\linq-practice.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\source\repos\linq-practice\linq-practice\obj\Debug\netcoreapp2.1\linq-practice.AssemblyInfoInputs.cache
+C:\Users\Vincent\source\repos\linq-practice\linq-practice\obj\Debug\netcoreapp2.1\linq-practice.AssemblyInfo.cs
+C:\Users\Vincent\source\repos\linq-practice\linq-practice\obj\Debug\netcoreapp2.1\linq-practice.dll
+C:\Users\Vincent\source\repos\linq-practice\linq-practice\obj\Debug\netcoreapp2.1\linq-practice.pdb
